@@ -1,0 +1,71 @@
+recipe:
+  title: Key Lime Pie
+  description: A classic recipe for a refreshing Key Lime Pie.
+
+  ingredients:
+    - quantity: 1  # Adjust quantities based on your desired serving size
+      unit: pie crust
+      item: graham cracker pie crust
+
+    - quantity: 1
+      unit: can
+      item: sweetened condensed milk
+
+    - quantity: 4
+      unit: tablespoons
+      item: key lime zest
+
+    - quantity: 1/2
+      unit: cup
+      item: fresh key lime juice
+
+    - quantity: 1
+      unit: teaspoon
+      item: pure vanilla extract
+
+    - quantity: 1
+      unit: cup
+      item: heavy cream
+
+    - quantity: 2
+      unit: tablespoons
+      item: powdered sugar
+
+    - quantity: to taste
+      unit: 
+      item: lime slices for garnish
+
+  instructions:
+    - step: 1
+      text: Preheat the oven to 350°F (175°C).
+
+    - step: 2
+      text: In a medium bowl, mix the graham cracker pie crust according to the package instructions. Press the mixture into a pie dish to form the crust.
+
+    - step: 3
+      text: In a large bowl, combine sweetened condensed milk, key lime zest, key lime juice, and vanilla extract. Mix well until smooth.
+
+    - step: 4
+      text: Pour the lime mixture into the prepared pie crust.
+
+    - step: 5
+      text: Bake in the preheated oven for 8 to 10 minutes, or until the edges of the pie are set but the center is still slightly jiggly.
+
+    - step: 6
+      text: Allow the pie to cool to room temperature, then refrigerate for at least 3 hours or until set.
+
+    - step: 7
+      text: In a separate bowl, whip the heavy cream and powdered sugar until stiff peaks form. Spread or pipe the whipped cream over the chilled pie.
+
+    - step: 8
+      text: Garnish with lime slices.
+
+    - step: 9
+      text: Slice and serve chilled. Enjoy your refreshing Key Lime Pie!
+
+  notes: |
+    - For best results, use fresh key lime juice for an authentic flavor.
+    - You can also use a store-bought whipped topping instead of whipping your own cream.
+
+  serving_suggestion: Serve with a dollop of whipped cream on top for an extra treat.
+
